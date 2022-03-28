@@ -1,2 +1,2 @@
-# Predict_house_price-with-Linear_Regression
-build a basic model machine learning to predict house price using linear regression
+# Predict_house_price-with-RandomForestRegressor
+build a basic model machine learning to predict house price using RandomForestRegressor
